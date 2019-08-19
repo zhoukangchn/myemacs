@@ -1,0 +1,18 @@
+
+;; ----- amx-history -----
+(
+ magit-status
+ shell
+ describe-coding-system
+ cd
+ 5x5
+ amx
+ arp
+)
+
+;; ----- amx-data -----
+(
+ (describe-coding-system . 1)
+ (shell . 1)
+ (magit-status . 1)
+)
