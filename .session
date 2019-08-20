@@ -1,14 +1,14 @@
-;;; Automatically generated on Sun Aug 18 19:32:25 2019
+;;; Automatically generated on Tue Aug 20 21:50:23 2019
 ;;; Invoked by kangz@DESKTOP-Q4AIABH using 26.1
-(setq-default kill-ring '("" #("select * from custer left join fga on 
+(setq-default kill-ring '(#("git-commit-filename-regexp" 0 3 (fontified t) 3 8 (fontified t) 8 10 (fontified t) 10 19 (fontified t) 19 26 (fontified t)) #("git-commit-filename-regexp" 0 8 (fontified t) 8 26 (fontified t)) #("it-filename-regexp" 0 18 (fontified t)) #("git-commit-filename-regexp" 0 26 (fontified t)) #("select-active-regions" 0 7 (fontified t) 7 14 (fontified t) 14 21 (fontified t)) #("select-" 0 7 (fontified t)) #("acti" 0 4 (fontified t)) #("regions" 0 7 (fontified t)) #("select                                                           " 0 65 (fontified t)) "" #("select * from custer left join fga on 
 " 0 6 (yank-handler \.\.\. face font-lock-keyword-face fontified t) 6 9 (yank-handler \.\.\. fontified t) 9 13 (yank-handler \.\.\. face font-lock-keyword-face fontified t) 13 21 (yank-handler \.\.\. fontified t) 21 25 (yank-handler \.\.\. face font-lock-keyword-face fontified t) 25 26 (yank-handler \.\.\. fontified t) 26 30 (yank-handler \.\.\. face font-lock-keyword-face fontified t) 30 35 (yank-handler \.\.\. fontified t) 35 37 (yank-handler \.\.\. face font-lock-keyword-face fontified t) 37 38 (yank-handler \.\.\. fontified t) 38 39 (yank-handler \.\.\.))))
 (setq-default session-file-alist '(("d:/myproject/my.sql" 1 1 1 nil nil 1 (overwrite-mode)) ("d:/myproject/hello.py" 31 23 1 nil nil 34 (overwrite-mode)) ("~/.emacs.d/custom-set-variables.el" 1 nil 1 nil nil 2729 (overwrite-mode))))
 (setq-default file-name-history '(#("d:/myproject/my.sql" 0 19 (ivy-index 0)) "d:/myproject/hello.py" #("d:/myproject/" 0 13 (ivy-index 0)) "~/.emacs.d/custom-set-variables.el"))
 (setq-default regexp-search-ring '("put" "in" "input"))
-(setq-default amx-history '(magit-status shell describe-coding-system cd 5x5 amx arp))
+(setq-default amx-history '(magit-log-all magit-log magit-status shell describe-coding-system cd 5x5))
 (setq-default coding-system-history '("nil"))
-(setq-default command-history '((magit-status #9="~/.emacs.d/" (quote ...)) (shell nil) (evil-delete 1 39 (quote line) nil nil) (find-file "d:/myproject/my.sql" t) (evil-find-char-pinyin nil 6) (find-file "d:/myproject/" t) (describe-coding-system nil)))
-(setq-default counsel-M-x-history '(#("^magit-s" 0 8 (ivy-index 0)) #("^sh" 0 3 (ivy-index 0)) #("^describe-codi" 0 14 (ivy-index 0))))
+(setq-default command-history '((magit-log-all (quote \.\.\.) nil) (magit-status "~/.emacs.d/" (quote \.\.\.)) (shell nil) (evil-delete 1 39 (quote line) nil nil) (find-file "d:/myproject/my.sql" t) (evil-find-char-pinyin nil 6) (find-file "d:/myproject/" t) (describe-coding-system nil)))
+(setq-default counsel-M-x-history '(#("^magit-log" 0 10 (ivy-index 1)) #("magi" 0 4 (ivy-index 2)) #("^" 0 1 (ivy-index 0)) #("^magit-s" 0 8 (ivy-index 0)) #("^sh" 0 3 (ivy-index 0)) #("^describe-codi" 0 14 (ivy-index 0))))
 (setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -I -e \"%s\""))
 (setq-default evil-ex-history '(#("wq" 0 1 (ex-index 1) 1 2 (ex-index 2))))
 (setq-default evil-search-forward-history '("put" "in" "input"))
